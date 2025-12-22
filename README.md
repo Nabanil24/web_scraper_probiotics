@@ -1,5 +1,9 @@
 # web_scraper_probiotics
 
+##Task 1 - Building the web scraper
+
+The code can be run on jupyter notebook. No additional dependencies. Example command and sample output has been included with the code.
+
 Output for Yakult:
 
 {
