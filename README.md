@@ -85,3 +85,73 @@ Output for Yakult:
         "Errors": []
     }
 }
+
+Output for tablets india:
+
+{
+    "A_Identity": {
+        "Company_Name": "Tablets India",
+        "Website": "https://tabletsindia.com",
+        "Tagline": "Tablets India offers advanced probiotics, nutraceuticals and pharma solutions designed to support immunity, gut health and overall wellness for all age groups."
+    },
+    "B_Business_Summary": {
+        "What_They_Do": "Tablets (India) Limited was one of the early pharma ventures in India and was founded in 1938 by Mr Sri Krishna Jhaver.",
+        "Primary_Offerings": [
+            "Capsule in capsule",
+            "Sachet in Sachet",
+            "Oral Dispersible Powder"
+        ],
+        "Target_Segments": []
+    },
+    "C_Evidence": {
+        "Key_Pages_Detected": [
+            "Science: https://tabletsindia.com/clinical-research",
+            "Contact: https://tabletsindia.com/contact-us",
+            "About: https://tabletsindia.com/about-us",
+            "Careers: https://tabletsindia.com/careers",
+            "Contact: https://tabletsindia.com/human-health/fertility-support/fertihope-m",
+            "Science: https://tabletsindia.com/rd-activities"
+        ],
+        "Signals_Found": [
+            "Immunity",
+            "Patent",
+            "Partners",
+            "Research",
+            "Clinical Trial",
+            "Copyright",
+            "Science",
+            "All Rights Reserved"
+        ],
+        "Social_Links": [
+            "https://www.facebook.com/TabletsIndia",
+            "https://www.youtube.com/channel/UCQ2BbybacrxLP_ugHycIb-w/videos",
+            "https://www.instagram.com/tabletsindia/",
+            "https://twitter.com/TabletsIndiaLtd",
+            "https://www.linkedin.com/company/tabletsindia/"
+        ]
+    },
+    "D_Contact_Location": {
+        "Emails": [
+            "info@tabletsindia.com"
+        ],
+        "Phones": [],
+        "Address": "Jhaver Centre 72 Marshalls Road, Chennai \u2013 600 008 600 008",
+        "Contact_URL": "https://tabletsindia.com/contact-us"
+    },
+    "E_Team_Hiring": {
+        "Careers_URL": "https://tabletsindia.com/careers",
+        "Roles_Mentioned": []
+    },
+    "F_Metadata": {
+        "Timestamp": "2025-12-23 01:34:06",
+        "Pages_Visited": [
+            "https://tabletsindia.com",
+            "https://tabletsindia.com/about-us",
+            "https://tabletsindia.com/clinical-research",
+            "https://tabletsindia.com/contact-us",
+            "https://tabletsindia.com/human-health/fertility-support/fertihope-m",
+            "https://tabletsindia.com/rd-activities"
+        ],
+        "Errors": []
+    }
+}
