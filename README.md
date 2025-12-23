@@ -1,5 +1,15 @@
 # web_scraper_probiotics
 
+## Company Evaluation Framework: Probiotics & Bio-Pharma
+
+| Category | What to Look For | Why it Matters |
+| :--- | :--- | :--- |
+| **Strain Specificity** | Mentions of specific strains (e.g., *Lactobacillus rhamnosus* GG, *Bifidobacterium* BB-12). | **High Intent.** Specificity indicates ownership or deep licensing of IP, typical of R&D-led companies. |
+| **Quantifiable Metrics** | References to **CFU** (Colony Forming Units), stability data, or shelf-life potency. | **Manufacturing Strength.** Only serious manufacturers or high-end brands focus on viable cell counts. |
+| **Scientific Validation** | Clinical trial links, white papers, or "In-Vitro/In-Vivo" study mentions. | **Pharma Alignment.** Distinguishes between "marketing-led" and "science-led" organizations. |
+| **Regulatory Compliance** | GMP, ISO, FDA-GRAS status, or specific health claims (EFSA/Health Canada). | **Trust Signal.** Necessary for a pharma client looking for partners or competitors. |
+| **Supply Chain Role** | "Bulk ingredients," "Custom formulation," or "Finished dosage forms." | **Classification.** Determines if they are a raw material supplier or a consumer-facing brand. |
+
 ##Task 1 - Building the web scraper
 
 The code can be run on jupyter notebook. No additional dependencies. Example command and sample output has been included with the code.
