@@ -1,6 +1,6 @@
 # web_scraper_probiotics
 
-## Company Evaluation Framework: Probiotics & Bio-Pharma
+## Company Evaluation Framework: Probiotics 
 
 | Category | What to Look For | Why it Matters |
 | :--- | :--- | :--- |
@@ -9,6 +9,19 @@
 | **Scientific Validation** | Clinical trial links, white papers, or "In-Vitro/In-Vivo" study mentions. | **Pharma Alignment.** Distinguishes between "marketing-led" and "science-led" organizations. |
 | **Regulatory Compliance** | GMP, ISO, FDA-GRAS status, or specific health claims (EFSA/Health Canada). | **Trust Signal.** Necessary for a pharma client looking for partners or competitors. |
 | **Supply Chain Role** | "Bulk ingredients," "Custom formulation," or "Finished dosage forms." | **Classification.** Determines if they are a raw material supplier or a consumer-facing brand. |
+
+##  Company Profile
+I chose the company Lallemand (https://lallemand-health-solutions.com/en/health-segments/gut-health/) for profiling.
+
+
+| Category | Analysis of Lallemand Health Solutions | Score / Strength |
+| :--- | :--- | :--- |
+| **1. Strain Specificity** <br> *(Do they name the bug?)* | **Exceptional.** They do not just say "Lactobacillus"; they market specific, proprietary strains like *L. helveticus Rosell®-52* and *B. infantis Rosell®-33*. This is the highest level of specificity. | **+5 (Maximum)** |
+| **2. Quantifiable Metrics** <br> *(CFU & Stability)* | **High.** They market specific stability technologies like **Probiocap®** (microencapsulation) to guarantee survival. They explicitly discuss stability data and shelf-life potency, not just "input count." | **+5 (Maximum)** |
+| **3. Scientific Validation** <br> *(Clinical Trials)* | **Very High.** They operate the **Rosell® Institute for Microbiome and Probiotics.** Their website cites over **160 clinical studies.** They categorize products by therapeutic area (e.g., *Cerebiome®* for the Gut-Brain axis), which implies clinical backing. | **+5 (Maximum)** |
+| **4. Regulatory Compliance** <br> *(Trust Signals)* | **Strong.** They list manufacturing standards including **Pharma GMP, Health Canada** NHP licenses, **USP** (United States Pharmacopeia) quality verification, and ISO 9001. | **+3 (High)** |
+| **5. Supply Chain Role** <br> *(Bulk vs Retail)* | **Foundation Layer.** They describe themselves as a "One-stop-shop" offering active ingredients (bulk powder) and custom formulations. | **N/A (Context)** |
+
 
 ##Task 1 - Building the web scraper
 
